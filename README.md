@@ -29,5 +29,5 @@ This project includes user registration, login, logout, and profile management.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.comanujjain946/django_UserAuthenticationSystem.git
+git clone https://github.com/anujjain946/django_UserAuthenticationSystem.git
 cd django_UserAuthenticationSystem
